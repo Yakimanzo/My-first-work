@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'NexaScript-Regular';
+  src: url('NexaScript-Regular.svg#NexaScript-Regular') format('svg'),
+       url('NexaScript-Regular.ttf') format('truetype'),
+       url('NexaScript-Regular.woff') format('woff'),
+       url('NexaScript-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family:'Rosalinda';
+  src: url('Rosalinda.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'Rosalinda';
+  src: url('Rosalinda.svg#Rosalinda') format('svg'),
+       url('Rosalinda.ttf') format('truetype'),
+       url('Rosalinda.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
